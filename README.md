@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://7thmist.store/my-github-repos)
 * [FastDFS分布式文件存储服务器快速入门](http://7thmist.store/articles/2019/09/25/1569399325484.html)
 * [Kubernetes服务器最全攻略（一）](http://7thmist.store/articles/2019/09/24/1569296110875.html)
 * [Redis内存数据库服务器快速入门](http://7thmist.store/articles/2019/09/24/1569295014754.html)
